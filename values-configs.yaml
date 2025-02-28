@@ -1,0 +1,7 @@
+configs:
+  - key: app_name
+    value: hello-world
+  - key: app_version
+    value: v1.0.0
+  - key: environment
+    value: production
