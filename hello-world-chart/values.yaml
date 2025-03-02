@@ -1,0 +1,4 @@
+replicasCount: 3
+image:
+  repository: nginx 
+  tag: alpine
