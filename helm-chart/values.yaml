@@ -530,7 +530,7 @@ ingress:
   hosts:
     - # -- (tpl/string) Hostname.
       # @section -- Ingress Parameters
-      host: k8s-goko.local
+      host: k8s-goko.com
       paths:
         - # -- (string) Path.
           # @section -- Ingress Parameters
